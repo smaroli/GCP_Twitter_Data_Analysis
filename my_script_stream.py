@@ -2,10 +2,10 @@ import tweepy as tw
 from google.cloud import pubsub_v1
 import json
 
-consumer_key= 'l3lQPf6y2ZFI282D6OZXEssFH'
-consumer_secret= 'cqJ83YDoxAWWi6el67v0khh3J2f7nO9rsocMWL7q6eiLHoh8lt'
-access_token= '384169397-45ExTWB89WEm64qj1RI6ekhFomD0WqrBfAbfjQ9R'
-access_token_secret= 'SPoDn1ZZvubCX571zso59wIBKvSTCPlmhi8hBIYZ3AVeG'
+consumer_key= 'Input_key_twitter_developer_account'
+consumer_secret= 'Input_key_twitter_developer_account'
+access_token= 'Input_key_twitter_developer_account'
+access_token_secret= 'Input_key_twitter_developer_account'
 auth = tw.OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_token_secret)
 api = tw.API(auth)
