@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "windy-backbone-267320",
+  "private_key_id": "5dc15516a8eaf10541b47362c67f799d3134c441",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQD3SYMIaMCVvnPO\nXnBUglyOOFyj+cPqwvmPeVJAy9mrEmp8huklUaoeEpl5Cc4xlqNB0pLsd7sZCYRn\nBOIuxG3/auvJ1dvnV+Szrb6n2ZxExED4gvZhYcOgJORWIsFI4q/muf2WluX0uf+p\n9hhFdGkFG4OK/kGsL5u/p8a5weP6WaP3+zdoKYZSmnAla1Gtlg0uxFedL7MPDzAP\nwjY3TtdIeqFCQ/x2yt6/ZQHw8bZ/fVb+lO6l8V5funaQhSo1Vcx+Bxf3HUOE9Xyu\nesaDPhuKRQNyWBAu1xZ3Li1YZYZ+eCQUGoxH9NDIpNa2AIWm4dNsKiMB6SXYKgN4\nitWku7TvAgMBAAECggEALry/nb7Cq2qoE5iIzYgn+x9O7xT9QOkh5sqMz79Xf/xG\nkQuklA+XwgBM7nH6fSfV6lJkv3mvrH8+fYQQRbuNeKlaMDcRzWswx/7uGmZIIT0g\ndHe4HlaudR2T5G3EL0Tc7xQ3CBe0Falz10kydCoY0UTOe14rxmHnI3WP2zr4ni+k\n8KXfzv1yG1K3+K4Oecd1GBINkAkg6CFMGaS9EEgXCyvJZU83p9PttWJe87BSD15V\n1uTB6MlGAdfry3fDwzXVketYYWH38Rk+872DHzCQeqndNxlBnKuejTV4TKOjtH5K\ntO1NIQggAJPgmgPjqlSU+d9EtYTq9zIxCp2IbOONvQKBgQD72zKZlO5fWWOSTfUT\n4K65aNSSj+WjrMwPUHcVJbY2lkh5mMFMor99nxukV9RTqnqUqSDVy6jBIw8gF0WC\n9KptsFs0CFXWHXyzvaFLgD82+rJSqUSMLwMq+Twg2A94InRVn4kHaxOT3AI46TAH\nUm+5p4JOGN0FGs3Y33R+Wl6eGwKBgQD7WxHKkCYe8uoPOAKiNRHtCJ4mf4P42coX\n5HJqA8wf86oL8eBAA+tappK1TNMnK8P0xLyNOJYfSSy5joOyZJvFUfI8pNqZqaAI\nIepRMmSi39GF1Be6O5gKhIcX8EioBVBoMpOQXilA9fArCOVAGva9SAZH/gW97NyE\nnBJ8UXahvQKBgGwt7QAW/oSqKqDPJ3PQUHyHULdbY7H4KPZzA5NrzWaJCrxgJrc6\nOLJGw2LF7we49Eoik14Byoya+IY6OLtVSFcxJxukcOo1ZDj4PO3nOj/tUuc6mZz1\nHJE62N7qr0pU0k9s5Tjwf0pFeBbl4qFigWbnUoslFtp4du6unKUhP/79AoGBAL7D\n6GXPL09v1xpDzSPkmT1HvBfF0ZhtWob1l6xEQ4jAen9kTGjpUJdVMqUssFjbS3aa\nVevsVWtbMvmFYwhieSKxxeImz82twkpJyzdiwqQmsDMcvAFYt1TMLmeJsurqVZMv\nR3VbMX4e6e8PakZT8I3JexLqhNsXSGnQterqPNoVAoGAKkScN2tQo4bFa8Jn0weF\nw7BydBP+asoZH7TpGZb+hVWo47XzgSYMXF7BCZ28HKc9KrTLroYhb5l8obdjoFYP\nb0iTPTjhgKS2I6LDeElla02c/k3h7CGxwqibW/mj72tcwFDxDevWa1h1jqlYfSeU\nXCRShHyOPJ8dG56F+LNUt7E=\n-----END PRIVATE KEY-----\n",
+  "client_email": "twitter-publish@windy-backbone-267320.iam.gserviceaccount.com",
+  "client_id": "107157314518427871958",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/twitter-publish%40windy-backbone-267320.iam.gserviceaccount.com"
+}
